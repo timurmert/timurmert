@@ -79,8 +79,8 @@
   *A full-stack web application for managing resources, built with PHP, SQL, and deployed online.*  
 - 🔗 [**Embedded System Project**](https://github.com/your-embedded-project)  
   *Developed an Arduino-based IoT project for monitoring and controlling devices.*  
-- 🔗 [**UAV Ground Control Station**](https://github.com/your-uav-gcs)  
-  *Designed a ground control station interface for UAVs using Figma.*
+- 🔗 [**UAV Ground Control Station**](https://github.com/timurmert/uav-ground-station)  
+  *I designed a ground control station interface for UAVs in Figma, implemented in Python for an interactive user experience.*
 
 ---
 
