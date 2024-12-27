@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timur Mert</h1>
-<h3 align="center">A passionate Computer Engineering student and cybersecurity enthusiast from Turkey</h3>
+<h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=timurmert&label=Profile%20views&color=0e75b6&style=flat" alt="timurmert" />
@@ -101,8 +101,3 @@
 - 🌟 Achieve global recognition through impactful open-source contributions  
 
 ---
-
-### ✨ Fun Facts
-- 🖥️ Built my first Arduino project in high school  
-- 🛫 Contributed to a UAV project that ranked 8th globally  
-- 🌍 Fluent in both English and Turkish
