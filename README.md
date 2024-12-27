@@ -1,23 +1,93 @@
-<!-- Örnek README Başlangıcı --> <h1 align="center">Merhaba, ben Timur Mert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1> <h3 align="center">Frontend ve Backend Geliştirmeye Meraklı Bir Yazılım Geliştiricisi</h3> <p align="center"> <!-- Profil görüntüleme sayısı --> <img src="https://komarev.com/ghpvc/?username=timurmert&label=Ziyaretçi%20Sayısı&color=ffa200&style=flat" alt="timurmert" /> </p> <!-- About Me -->
-About Me
-Merhaba! Ben Timur Mert, yazılım dünyasında kendimi geliştirmeyi ve sürekli yeni teknolojiler öğrenmeyi seven bir geliştiriciyim. Hem frontend hem de backend tarafında çeşitli projeler geliştiriyorum. Özellikle görsel arayüz tasarımlarına ve kullanıcı deneyimine önem veriyorum. Boş zamanlarımda ise yeni teknolojiler keşfediyor, blog yazıları okuyarak veya açık kaynak projelere katkıda bulunarak kendimi güncel tutmaya çalışıyorum.
-👀 İlgi Alanlarım: UI/UX tasarımı, web geliştirme, mobil uygulama geliştirme, yapay zekâ ve IoT.
-🌱 Şu anda üzerinde çalıştığım teknoloji(ler): React, Node.js, Python, Java.
-💬 Bana her konuda, özellikle web ve mobil projeler konusunda soru sorabilirsiniz.
-📫 İletişim: <strong>timurmertusta@gmail.com</strong>
-<!-- Education -->
-Education
-Lisans: Örnek Üniversitesi, Bilgisayar Mühendisliği
-Ortalama: 3.0 / 4.0
-Kulüpler ve Aktiviteler: Yazılım Kulübü, IEEE Topluluğu
-<!-- Connect with me -->
-Connect with Me
-<p align="left"> <a href="https://linkedin.com/in/timur-mert-usta" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timur-mert-usta" height="30" width="40" /> </a> <a href="mailto:timurmertusta@gmail.com" target="blank"> <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="40" /> </a> </p> <!-- Languages and Tools -->
-Languages & Tools
-<p> <!-- Arduino --> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <!-- C --> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <!-- C++ --> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <!-- CSS --> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <!-- Figma --> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <!-- Git --> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!-- HTML --> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <!-- Java --> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <!-- JavaScript --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <!-- Linux --> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!-- MySQL --> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <!-- PHP --> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <!-- Python --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <!-- GitHub Stats -->
-My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=timurmert&show_icons=true&theme=radical" alt="timurmert" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=timurmert&theme=radical" alt="timurmert" /> </p> <!-- Trophies (opsiyonel) --> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=timurmert&theme=onedark" alt="timurmert" /> </p> <!-- Örnek proje linkleri -->
-Some of My Projects
-<a href="https://github.com/timurmert/proje1">Proje 1</a> - Kısa açıklama: Bu projede ...
-<a href="https://github.com/timurmert/proje2">Proje 2</a> - Kısa açıklama: Bu projede ...
-<!-- Commit grafiği (opsiyonel) --> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timurmert&theme=radical" alt="profile-summary"/> </p> <!-- Örnek README Sonu -->
+<h1 align="center">Hi 👋, I'm Timur Mert</h1>
+<h3 align="center">A passionate frontend developer and Computer Engineering student from Turkey</h3>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=timurmert&label=Profile%20views&color=0e75b6&style=flat" alt="timurmert" />
+</p>
+
+---
+
+### 📝 About Me
+- 🎓 **Education**: Computer Engineering at **Hacettepe University** (3rd Year)  
+- 📊 **GPA**: 3.5 / 4.0 *(or your exact GPA)*  
+- 🌱 **Currently Learning**: Backend Development & Cloud Computing  
+- 💡 **Interests**: Software Development, Cybersecurity, AI  
+- 💬 **Ask me about**: Frontend Development, C++, Python, and JavaScript  
+- 📫 **How to reach me**: **timurmertusta@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+    <a href="https://linkedin.com/in/timur-mert-usta" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://github.com/timurmert" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    </a>
+    <!-- Add more links if needed -->
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    </a>
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+    </a>
+</p>
+
+---
+
+### 📂 Featured Projects
+- 🔗 [**Project Name**](https://github.com/your-project-link)  
+  *Short description about your project and its features.*
+  
+- 🔗 [**Another Project**](https://github.com/your-other-project)  
+  *Brief details about another project.*
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=timurmert&show_icons=true&theme=radical" alt="timurmert" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timurmert&show_icons=true&locale=en&layout=compact&theme=radical" alt="timurmert" />
+</p>
+
+---
+
+### 🎯 Goals
+- ✅ Build and maintain high-quality open-source projects  
+- 🚀 Collaborate with other developers on innovative projects  
+- 🌟 Master full-stack development by 2025  
+
+---
+
+### ✨ Fun Facts
+- 🖥️ Built my first website at the age of 14  
+- 🌍 Fluent in both English and Turkish  
+- 🎮 Avid gamer and eSports enthusiast
