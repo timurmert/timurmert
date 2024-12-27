@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timur Mert</h1>
-<h3 align="center">A passionate frontend developer and Computer Engineering student from Turkey</h3>
+<h3 align="center">A passionate Computer Engineering student and cybersecurity enthusiast from Turkey</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=timurmert&label=Profile%20views&color=0e75b6&style=flat" alt="timurmert" />
@@ -9,11 +9,20 @@
 
 ### 📝 About Me
 - 🎓 **Education**: Computer Engineering at **Hacettepe University** (3rd Year)  
-- 📊 **GPA**: 3.5 / 4.0 *(or your exact GPA)*  
-- 🌱 **Currently Learning**: Backend Development & Cloud Computing  
-- 💡 **Interests**: Software Development, Cybersecurity, AI  
-- 💬 **Ask me about**: Frontend Development, C++, Python, and JavaScript  
+- 📊 **GPA**: 3.31 / 4.0
+- 🌱 **Currently Learning**: Machine Learning and Data Processing with Python  
+- 💡 **Interests**: Cybersecurity, Embedded Systems, Software Development  
+- 🛠️ **Key Skills**: Web Development, Cybersecurity
 - 📫 **How to reach me**: **timurmertusta@gmail.com**
+
+---
+
+### 🌟 My Journey
+- 🛡️ Gained hands-on experience in **cybersecurity** through internships and personal projects.  
+- 🌐 Designed and deployed a **web-based management system** using HTML, CSS, JavaScript, PHP, and SQL.  
+- ⚙️ Developed some **embedded systems** projects using Arduino.    
+- 📊 Built projects in **Python, C++, C**, and **Java**, both individually and as part of academic coursework.  
+- 🤖 Exploring the potential of **machine learning** for data processing and model building.
 
 ---
 
@@ -25,7 +34,6 @@
     <a href="https://github.com/timurmert" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
     </a>
-    <!-- Add more links if needed -->
 </p>
 
 ---
@@ -56,16 +64,23 @@
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
     </a>
+    <a href="https://www.arduino.cc/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+    </a>
 </p>
 
 ---
 
 ### 📂 Featured Projects
-- 🔗 [**Project Name**](https://github.com/your-project-link)  
-  *Short description about your project and its features.*
-  
-- 🔗 [**Another Project**](https://github.com/your-other-project)  
-  *Brief details about another project.*
+- 🔗 [**Web Management System**](https://github.com/your-web-management-system)  
+  *A full-stack web application for managing resources, built with PHP, SQL, and deployed online.*  
+- 🔗 [**Embedded System Project**](https://github.com/your-embedded-project)  
+  *Developed an Arduino-based IoT project for monitoring and controlling devices.*  
+- 🔗 [**UAV Ground Control Station**](https://github.com/your-uav-gcs)  
+  *Designed a ground control station interface for UAVs using Figma.*
 
 ---
 
@@ -81,13 +96,13 @@
 ---
 
 ### 🎯 Goals
-- ✅ Build and maintain high-quality open-source projects  
-- 🚀 Collaborate with other developers on innovative projects  
-- 🌟 Master full-stack development by 2025  
+- ✅ Contribute to innovative cybersecurity and embedded systems projects  
+- 🚀 Expand expertise in data processing and machine learning  
+- 🌟 Achieve global recognition through impactful open-source contributions  
 
 ---
 
 ### ✨ Fun Facts
-- 🖥️ Built my first website at the age of 14  
-- 🌍 Fluent in both English and Turkish  
-- 🎮 Avid gamer and eSports enthusiast
+- 🖥️ Built my first Arduino project in high school  
+- 🛫 Contributed to a UAV project that ranked 8th globally  
+- 🌍 Fluent in both English and Turkish
