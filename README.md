@@ -75,9 +75,9 @@
 ---
 
 ### 📂 Featured Projects
-- 🔗 [**Web Management System**](https://github.com/your-web-management-system)  
+- 🔗 [**Web Management System**](https://github.com/timurmert/your-web-management-system)  
   *A full-stack web application for managing resources, built with PHP, SQL, and deployed online.*  
-- 🔗 [**Embedded System Project**](https://github.com/embedded-arduino)  
+- 🔗 [**Embedded System Project**](https://github.com/timurmert/embedded-arduino)  
   *Developed an Arduino-based IoT project for monitoring and controlling devices.*  
 - 🔗 [**UAV Ground Control Station**](https://github.com/timurmert/uav-ground-station)  
   *I designed a ground control station interface for UAVs in Figma, implemented in Python for an interactive user experience.*
