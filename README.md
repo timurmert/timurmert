@@ -75,7 +75,7 @@
 ---
 
 ### 📂 Featured Projects
-- 🔗 [**Web Management System**](https://github.com/timurmert/your-web-management-system)  
+- 🔗 [**Web Management System**](https://github.com/timurmert/esports-team-management-system)  
   *A full-stack web application for managing resources, built with PHP, SQL, and deployed online.*  
 - 🔗 [**Embedded System Project**](https://github.com/timurmert/embedded-arduino)  
   *Developed an Arduino-based IoT project for monitoring and controlling devices.*  
