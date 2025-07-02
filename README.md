@@ -9,7 +9,7 @@
 
 ### 📝 About Me
 - 🎓 **Education**: Computer Engineering at **Hacettepe University** (3rd Year)  
-- 📊 **GPA**: 3.17 / 4.0
+- 📊 **GPA**: 3.18 / 4.0
 - 🌱 **Currently Learning**: Machine Learning and Data Processing with Python  
 - 💡 **Interests**: Cybersecurity, Embedded Systems, Software Development  
 - 🛠️ **Key Skills**: Web Development, Cybersecurity
