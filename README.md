@@ -24,7 +24,6 @@
 - ☁️ Interested in **cloud infrastructure, observability, system reliability and platform engineering**
 - ⚙️ Built embedded software using **Zynq-7000, ZedBoard and FreeRTOS**
 - 🛡️ Experienced in SOC operations, log analysis, threat detection and malware analysis
-- 🚀 Founder and Lead Developer at **HydRaboN**
 - 📫 Reach me at **timurmertusta@gmail.com**
 
 ---
