@@ -4,13 +4,13 @@
 
 ### Computer Engineer · Site Reliability · Cloud · Embedded Systems
 
-<a href="https://www.linkedin.com/in/timur-mert-usta/">
-  <img src="https://img.shields.io/badge/LinkedIn-Timur%20Mert%20Usta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:timurmertusta@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=timurmert&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/timur-mert-usta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:timurmertusta@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=timurmert&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+</p>
 
 </div>
 
@@ -117,11 +117,16 @@ A real-time object detection and scanning system developed using an Arduino, ult
 
 I'm open to collaborating on software, SRE, cloud and embedded systems projects.
 
-<a href="https://www.linkedin.com/in/timur-mert-usta/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:timurmertusta@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<div align="center">
+
+### Let's Connect
+
+I'm open to collaborating on software, SRE, cloud and embedded systems projects.
+
+<p>
+  <a href="https://www.linkedin.com/in/timur-mert-usta/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:timurmertusta@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"></a>
+</p>
+
+</div>
 
 </div>
